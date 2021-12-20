@@ -1,0 +1,1 @@
+Hello. My plan is to hav a test fiile that has UPPer and LOWER case words. All trhee cises of misspellings will be represented. The file will encompass more than one line and will have no other puncktuation than commas, and the dot at the end of a line.

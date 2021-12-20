@@ -1,5 +1,5 @@
 # About the Project
-This program was written for a project in my Advanced Computer Programming Course in my Fall 2021 semester. This project focuses heavily on reading and writing from/to files. The purpose of this program is to type into a text area, check it against a dictionary file, and offer suggested words if the text area contains misspelled words. 
+This program was written for a project in my Advanced Computer Programming Course in my Fall 2021 semester. This project focuses heavily on reading and writing from/to files. The purpose of this program is to type into a text area, check it against a dictionary file, and offer suggested words if the opened file contains misspelled words. 
 
 # Installation and Execution
 * Clone repo to local machine
